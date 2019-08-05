@@ -12,3 +12,5 @@
 |New situation| 1 0 0 | ? |
 ### Result of SimpleNeural.js
 ` * Epoch: 200, Loss: 0.00005139387640518134, Predict output: 0.9999486061235948 `
+
+## Deep Classification is reinforcement learning project about sentences classification
