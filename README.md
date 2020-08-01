@@ -1,4 +1,4 @@
-# DeepLearning
+# MachineLearning
 
 ## Simple Neural is example about neural network
 ### Solution in SimpleNeural.js
